@@ -1,0 +1,13 @@
+
+p { 
+text-align:center;
+}
+.box {
+background-color:red;
+border: 10px solid green;
+width: 180px;
+padding: 20px;
+position: absolute;
+left: 0px;
+}
+}
